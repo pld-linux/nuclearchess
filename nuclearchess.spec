@@ -7,7 +7,7 @@ License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://user.cs.tu-berlin.de/~karlb/nuclearchess/%{name}-%{version}.tar.gz
 # Source0-md5:	10d8b2a2890d6aaca1afe2cbc23f002a
-URL:		http://www.linux-games.com/
+URL:		http://www.linux-games.com/nuclearchess
 BuildRequires:	SDL-devel >= 1.2.0
 BuildRequires:	SDL_image-devel >= 1.2.0
 BuildRequires:	autoconf
