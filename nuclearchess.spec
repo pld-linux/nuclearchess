@@ -1,5 +1,5 @@
 Summary:	An explosive chess variant
-Summary(pl.UTF-8):   Wybuchowy wariant szachów
+Summary(pl.UTF-8):	Wybuchowy wariant szachów
 Name:		nuclearchess
 Version:	0.9.2
 Release:	1
