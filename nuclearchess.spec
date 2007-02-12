@@ -1,5 +1,5 @@
 Summary:	An explosive chess variant
-Summary(pl):	Wybuchowy wariant szachów
+Summary(pl.UTF-8):   Wybuchowy wariant szachÃ³w
 Name:		nuclearchess
 Version:	0.9.2
 Release:	1
@@ -18,9 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 NuclearChess is a chess variant. Whenever a piece is captured, both
 pieces and all pieces on neighbour fields die.
 
-%description -l pl
-NuclearChess jest wariantem szachów. Gdy figura zostaje pojmana, obie
-figury wraz ze wszystkimi figurami na s±siednich polach gin±.
+%description -l pl.UTF-8
+NuclearChess jest wariantem szachÃ³w. Gdy figura zostaje pojmana, obie
+figury wraz ze wszystkimi figurami na sÄ…siednich polach ginÄ….
 
 %prep
 %setup -q
