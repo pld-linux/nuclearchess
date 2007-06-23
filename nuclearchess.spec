@@ -1,12 +1,12 @@
 Summary:	An explosive chess variant
 Summary(pl.UTF-8):	Wybuchowy wariant szachów
 Name:		nuclearchess
-Version:	0.9.2
+Version:	1.0.0
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://user.cs.tu-berlin.de/~karlb/nuclearchess/%{name}-%{version}.tar.gz
-# Source0-md5:	10d8b2a2890d6aaca1afe2cbc23f002a
+# Source0-md5:	c36b0cec8ff1bf3525a12aaf8a9c53fe
 URL:		http://www.linux-games.com/nuclearchess/
 BuildRequires:	SDL-devel >= 1.2.0
 BuildRequires:	SDL_image-devel >= 1.2.0
